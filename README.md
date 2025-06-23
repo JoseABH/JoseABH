@@ -14,24 +14,28 @@
 
 ## 🚀 Sobre mí
 
-<img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
+
+
 
 ```typescript
-const jose = {
+
+const Jose = {
+
     education: "Ingeniería en Sistemas 🎓",
     university: "Universidad Nacional de Costa Rica (UNA)",
     currentFocus: ["NestJS", "TypeScript", "React"],
     interests: ["Backend Architecture", "Web Design", "Open Source"],
     goals: "Crear soluciones eficientes y escalables",
     funFact: "Siempre buscando nuevos desafíos tecnológicos"
+
 };
+
+
+
+
 ```
 
-- 🎯 **Enfoque actual:** Desarrollo fullstack con tecnologías modernas
-- 🌱 **Aprendiendo:** Arquitecturas backend avanzadas y mejores prácticas
-- 💡 **Intereses:** Clean Code, DevOps, y experiencia de usuario
-- 🤝 **Colaboración:** Abierto a proyectos de código abierto
-- ⚡ **Dato curioso:** Me encanta resolver problemas complejos con código elegante
 
 ---
 
@@ -39,25 +43,56 @@ const jose = {
 
 <div align="center">
 
-### 💻 Lenguajes de Programación
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,cs,cpp,java&theme=dark" />
-</p>
+<table>
+<tr>
+<td align="center" width="220px">
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 10px;">
+<h3>💻 Lenguajes</h3>
+<br>
+<img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript"/>
+<img src="https://skillicons.dev/icons?i=ts" width="50" height="50" alt="TypeScript"/>
+<img src="https://skillicons.dev/icons?i=cs" width="50" height="50" alt="C#"/>
+<br><br>
+<img src="https://skillicons.dev/icons?i=cpp" width="50" height="50" alt="C++"/>
+<img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java"/>
+</div>
+</td>
+<td align="center" width="220px">
+<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 15px; margin: 10px;">
+<h3>🚀 Frameworks</h3>
+<br>
+<img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React"/>
+<img src="https://skillicons.dev/icons?i=nestjs" width="50" height="50" alt="NestJS"/>
+<br><br>
+<img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js"/>
+<img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="Tailwind"/>
+</div>
+</td>
+<td align="center" width="220px">
+<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 15px; margin: 10px;">
+<h3>🔧 Herramientas</h3>
+<br>
+<img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git"/>
+<img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub"/>
+<br><br>
+<img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VS Code"/>
+<img src="https://skillicons.dev/icons?i=figma" width="50" height="50" alt="Figma"/>
+</div>
+</td>
+<td align="center" width="220px">
+<div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 20px; border-radius: 15px; margin: 10px;">
+<h3>📊 Bases de Datos</h3>
+<br>
+<img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL"/>
+<img src="https://skillicons.dev/icons?i=postgresql" width="50" height="50" alt="PostgreSQL"/>
+<br><br>
+<img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB"/>
+</div>
+</td>
 
-### 🚀 Frameworks & Librerías
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nestjs,nodejs,tailwind&theme=dark" />
-</p>
+</tr>
 
-### 🔧 Herramientas & Plataformas
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
-</p>
-
-### 📊 Bases de Datos
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark" />
-</p>
+</table>
 
 </div>
 
@@ -82,7 +117,7 @@ const jose = {
   <img src="https://github-profile-trophy.vercel.app/?username=JoseABH&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
-
+---
 
 ## 📈 Actividad de Desarrollo
 
@@ -90,9 +125,7 @@ const jose = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoseABH&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B" alt="Contribution Graph"/>
 </div>
 
-
-
-
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Gracias%20por%20visitar!&fontSize=40&fontColor=fff&animation=twinkling"/>
