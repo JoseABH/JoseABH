@@ -12,7 +12,7 @@
   <br /><br />
 
 <a href="https://github.com/JoseABH"><img src="https://img.shields.io/badge/GITHUB-JoseABH-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/jose-alberto-baltodano/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0B1220?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" /></a>
+<a href="www.linkedin.com/in/joseabh"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0B1220?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" /></a>
 <a href="mailto:joseabh2004@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-0B1220?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email" /></a>
 
 <br /><br />
