@@ -56,51 +56,59 @@ interests:
 
 ## `02` · Engineering Stack
 
-<div align="center">
-<table width="100%">
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <h3>Languages</h3>
-      <sub>Programming & Web</sub>
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=ts,js,cs,cpp,java,html,css&theme=dark&perline=4" width="220" alt="TypeScript, JavaScript, C#, C++, Java, HTML and CSS" />
-      <br/><br/>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <h3>Frameworks & Runtime</h3>
-      <sub>Web applications & UI</sub>
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=react,nestjs,express,tailwind,vite,nodejs&theme=dark&perline=3" width="165" alt="React, NestJS, Express, Tailwind CSS, Vite and Node.js" />
-      <br/><br/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <h3>Development Tools</h3>
-      <sub>Workflow & design</sub>
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux&theme=dark&perline=3" width="165" alt="Git, GitHub, VS Code, Postman, Figma and Linux" />
-      <br/><br/>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <h3>Databases</h3>
-      <sub>Storage & data services</sub>
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase&theme=dark&perline=2" width="110" alt="PostgreSQL, MySQL, MongoDB and Supabase" />
-      <br/><br/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2" valign="top">
-      <h3>Cloud & Deployment</h3>
-      <sub>Infrastructure & delivery</sub>
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=docker,vercel,supabase,githubactions&theme=dark&perline=4" width="220" alt="Docker, Vercel, Supabase and GitHub Actions" />
-      <br/><br/>
-    </td>
-  </tr>
-</table>
-</div>
+<!-- Individual icons wrap naturally on narrow screens; avoid shrink-to-fit tables. -->
+
+<h3>Languages</h3>
+<p>Programming &amp; Web</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=ts&amp;theme=dark" width="64" height="64" alt="TypeScript" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=js&amp;theme=dark" width="64" height="64" alt="JavaScript" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=cs&amp;theme=dark" width="64" height="64" alt="C#" title="C#" />
+  <img src="https://skillicons.dev/icons?i=cpp&amp;theme=dark" width="64" height="64" alt="C++" title="C++" />
+  <img src="https://skillicons.dev/icons?i=java&amp;theme=dark" width="64" height="64" alt="Java" title="Java" />
+  <img src="https://skillicons.dev/icons?i=html&amp;theme=dark" width="64" height="64" alt="HTML5" title="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css&amp;theme=dark" width="64" height="64" alt="CSS3" title="CSS3" />
+</p>
+
+<h3>Frameworks &amp; Runtime</h3>
+<p>Web applications &amp; UI</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=react&amp;theme=dark" width="64" height="64" alt="React" title="React" />
+  <img src="https://skillicons.dev/icons?i=nestjs&amp;theme=dark" width="64" height="64" alt="NestJS" title="NestJS" />
+  <img src="https://skillicons.dev/icons?i=express&amp;theme=dark" width="64" height="64" alt="Express" title="Express" />
+  <img src="https://skillicons.dev/icons?i=tailwind&amp;theme=dark" width="64" height="64" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=vite&amp;theme=dark" width="64" height="64" alt="Vite" title="Vite" />
+  <img src="https://skillicons.dev/icons?i=nodejs&amp;theme=dark" width="64" height="64" alt="Node.js" title="Node.js" />
+</p>
+
+<h3>Development Tools</h3>
+<p>Workflow &amp; design</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=git&amp;theme=dark" width="64" height="64" alt="Git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github&amp;theme=dark" width="64" height="64" alt="GitHub" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vscode&amp;theme=dark" width="64" height="64" alt="Visual Studio Code" title="Visual Studio Code" />
+  <img src="https://skillicons.dev/icons?i=postman&amp;theme=dark" width="64" height="64" alt="Postman" title="Postman" />
+  <img src="https://skillicons.dev/icons?i=figma&amp;theme=dark" width="64" height="64" alt="Figma" title="Figma" />
+  <img src="https://skillicons.dev/icons?i=linux&amp;theme=dark" width="64" height="64" alt="Linux" title="Linux" />
+</p>
+
+<h3>Databases</h3>
+<p>Storage &amp; data services</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres&amp;theme=dark" width="64" height="64" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mysql&amp;theme=dark" width="64" height="64" alt="MySQL" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb&amp;theme=dark" width="64" height="64" alt="MongoDB" title="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=supabase&amp;theme=dark" width="64" height="64" alt="Supabase" title="Supabase" />
+</p>
+
+<h3>Cloud &amp; Deployment</h3>
+<p>Infrastructure &amp; delivery</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker&amp;theme=dark" width="64" height="64" alt="Docker" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=vercel&amp;theme=dark" width="64" height="64" alt="Vercel" title="Vercel" />
+  <img src="https://skillicons.dev/icons?i=supabase&amp;theme=dark" width="64" height="64" alt="Supabase" title="Supabase" />
+  <img src="https://skillicons.dev/icons?i=githubactions&amp;theme=dark" width="64" height="64" alt="GitHub Actions" title="GitHub Actions" />
+</p>
 
 <sub>Core: TypeScript · React · NestJS · Node.js · REST APIs &nbsp;|&nbsp; Interests: Architecture · Data · Security · Cloud</sub>
 
@@ -201,12 +209,8 @@ flowchart LR
 ## `06` · GitHub analytics
 
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%" align="center" valign="middle"><a href="https://github.com/JoseABH"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=JoseABH&show_icons=true&rank_icon=github&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1&icon_color=22D3EE&include_all_commits=true" alt="GitHub account statistics" /></a></td>
-      <td width="50%" align="center" valign="middle"><a href="https://github.com/JoseABH?tab=repositories"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseABH&layout=compact&langs_count=8&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1" alt="Most used languages" /></a></td>
-    </tr>
-  </table>
+  <a href="https://github.com/JoseABH"><img width="420" src="./assets/generated/github-stats.svg" alt="GitHub overview: public original repositories, stars, forks and followers" /></a>
+  <a href="https://github.com/JoseABH?tab=repositories"><img width="420" src="./assets/generated/github-languages.svg" alt="Public non-fork repositories grouped by primary language" /></a>
 
 <br /><br />
 <img width="70%" src="https://streak-stats.demolab.com?user=JoseABH&theme=transparent&hide_border=true&background=0B1220&ring=38BDF8&fire=22D3EE&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=94A3B8&stroke=1E293B" alt="GitHub streak" />
@@ -230,14 +234,15 @@ flowchart LR
   </div>
 </details>
 
-<sub>Metrics depend on third-party services and GitHub's publicly accessible data. Language statistics do not indicate proficiency.</sub>
+<sub>Overview and language cards are stored in this repository and refreshed daily by GitHub Actions using public data. Languages show the share of non-fork repositories by primary language, not proficiency. The additional activity charts use third-party services.</sub>
 
 ---
 
-## `07` · Achievements
+## `07` · Achievements & milestones
 
 <div align="center">
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=JoseABH&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6" alt="GitHub achievements" />
+  <a href="https://github.com/JoseABH?tab=achievements"><img width="100%" src="./assets/generated/github-milestones.svg" alt="Public milestones: year joined, original repositories, primary languages and stars received" /></a>
+  <p><a href="https://github.com/JoseABH?tab=achievements"><strong>View official GitHub achievements &rarr;</strong></a></p>
 </div>
 
 ---
